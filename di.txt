@@ -1,0 +1,5 @@
+	Application Making Process: - How applications are worked, how the end user connected with the application.
+
+= Development process are two Architech: -
+1.	MVC - Model View Controler.
+2.	MVT – Model View Template.
